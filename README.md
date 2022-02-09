@@ -32,6 +32,8 @@ This is my profile, here you'll find a bit about me, things am currently working
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Frederico-Esch&theme=tokyonight&hide=Html)
+
 <b>Tools | Frameworks</b>
 
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
@@ -65,6 +67,7 @@ This is my profile, here you'll find a bit about me, things am currently working
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </details>
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Frederico-Esch&theme=tokyonight)
 
-### I'm looking for a job, please hire me!
+**Never be cruel, never be cowardly. And never ever eat pears! Remember – hate is always foolish…and love, is always wise. Always try, to be nice and never fail to be kind.** - 12th doctor
+  
+### - I'm looking for a job, please hire me!
