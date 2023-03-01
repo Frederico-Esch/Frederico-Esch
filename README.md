@@ -18,6 +18,10 @@ This is my profile, here you'll find a bit about me, things am currently working
 
 ## Professional
 
+### Current job
+
+- Currently working for "PSV Engenharia de Sistemas", mainly on a C#/winforms project for Gerdau.
+
 ### Interested
 
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -70,5 +74,3 @@ This is my profile, here you'll find a bit about me, things am currently working
 
 
 **Never be cruel, never be cowardly. And never ever eat pears! Remember – hate is always foolish…and love, is always wise. Always try, to be nice and never fail to be kind.** - 12th doctor
-  
-### - I'm looking for a job, please hire me!
