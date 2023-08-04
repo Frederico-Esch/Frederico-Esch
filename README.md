@@ -18,9 +18,9 @@ This is my profile, here you'll find a bit about me, things am currently working
 
 ## Professional
 
-### Current job
+### Current employment
 
-- Currently working for "PSV Engenharia de Sistemas", mainly on a C#/winforms project for Gerdau.
+- Currently working for "PSV Engenharia de Sistemas", mainly on C#/winforms and PL/SQL (PSI MES) for Gerdau.
 
 ### Interested
 
