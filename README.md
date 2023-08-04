@@ -35,7 +35,7 @@ This is my profile, here you'll find a bit about me, things am currently working
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Frederico-Esch&theme=tokyonight&hide=Html)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Frederico-Esch&theme=tokyonight&hide=Jupyter%20Notebook)
 
 <b>Tools | Frameworks</b>
 
