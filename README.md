@@ -1,6 +1,6 @@
 # Hi there
 
-This is my profile, here you'll find a bit about me, things am currently working on, learning or interested in, and there's also some of my socials.
+This is my profile, here you'll find a bit about me, things I am currently working on, learning or interested in, and there's also some of my socials.
 
 ## Personal
 
@@ -20,32 +20,22 @@ This is my profile, here you'll find a bit about me, things am currently working
 
 ### Current employment
 
-- Currently working for "PSV Engenharia de Sistemas", mainly on C#/winforms and PL/SQL (PSI MES) for Gerdau.
+- Currently working for "PSV Engenharia de Sistemas", mainly on C#/winforms
+- Undergraduate in Mechatronics Eng. by the UFSJ
 
 ### Interested
 
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
+<img width="40px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/lua/lua-original.svg" />
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" />
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Frederico-Esch&theme=tokyonight&hide=Jupyter%20Notebook)
-
-<b>Tools | Frameworks</b>
-
-<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img width="40px" align="left" src="https://docs.scipy.org/doc/scipy/_static/logo.svg" />
-<img width="40px" align="left" src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" />
-<img height="40px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
-<img width="40px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 
 <details>
   <summary><b>Learning</b></summary>
