@@ -20,8 +20,8 @@ This is my profile, here you'll find a bit about me, things I am currently worki
 
 ### Current employment
 
-- Currently working for "PSV Engenharia de Sistemas", mainly on C#/winforms
-- Undergraduate in Mechatronics Eng. by the UFSJ
+- Currently working for "PSV Engenharia de Sistemas", mainly on C# Backends
+- Undergraduate student in Mechatronics Eng. at UFSJ
 
 ### Interested
 
