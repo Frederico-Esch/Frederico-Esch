@@ -1,6 +1,6 @@
 # Hi there
 
-This is my profile, here you'll find a bit about me, things I am currently working on, learning or interested in, and there's also some of my socials.
+This is my profile, here you'll find a bit about me, things I am currently working on, learning or interested in, and some of my socials.
 
 ## Personal
 
@@ -9,21 +9,34 @@ This is my profile, here you'll find a bit about me, things I am currently worki
 [![stackof](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12002056/fred-esch)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredeschpe@gmail.com)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198165285645/)
-### Interests
-- 🖥️ Programming
-- 🎮 Gaming
-- 📚 Reading
-- 🎵 Music
-- ✍️ Studying
 
 ## Professional
 
-### Current employment
+- Currently working for "PSV Engenharia de Sistemas", mainly on C# Server Backends, IHM, and Digital Twins;
+- Undergraduate student in Mechatronics Eng. at UFSJ.t
 
-- Currently working for "PSV Engenharia de Sistemas", mainly on C# Backends
-- Undergraduate student in Mechatronics Eng. at UFSJ
+## ToolBox 🧰
 
-### ToolBox 🧰
+### My Editor (and config) ✏️
+
+<a href="https://github.com/Frederico-Esch/neovim-configs">
+  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+</a>
+
+(Click on the neovim icon for my config)
+
+</br>
+
+### Current Systems 🖥️
+
+<div>
+<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /> &
+<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+</div>
+
+</br>
+
+### Languages </>
 
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -42,11 +55,11 @@ This is my profile, here you'll find a bit about me, things I am currently worki
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Frederico-Esch&theme=tokyonight&hide=Jupyter%20Notebook)
 
 <details>
-  <summary><b>Looking into 🔍</b></summary>
+  <summary><b>Languages that I'm looking into 🔍</b></summary>
   </br>
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apl/apl-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
+  <img width="40px" align="left" src="https://avatars.githubusercontent.com/u/34303136?s=200&v=4" />
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
 </details>
 
@@ -55,7 +68,7 @@ This is my profile, here you'll find a bit about me, things I am currently worki
 
 Currently, I'm really interested in graphics programming and GPGPU. I also love simulations and mathematical computing, even though I wish I were better at it. I'm putting some effort into learning these skills, but life is currently taking up too much of my time 😅.
 
-Understanding the physics and math behind simulations is as interesting as coding them. Combined with my interest in low-level programming, this creates twice as many opportunities for me to experience impostor syndrome and wish I knew more about both assembly and physics ☠️
+Understanding the physics and math behind simulations is as interesting as coding them. Combined with my interest in low-level programming, this creates many more opportunities for me to experience impostor syndrome from the math to the programming ☠️
 
 ---
 
