@@ -4,6 +4,17 @@ This is my profile, here you'll find a bit about me, things I am currently worki
 
 ## Personal
 
+I'm a software developer, who's finishing his undergrad in Mechatronic Eng.
+Three things that have been a staple in my life are Programming, Doctor Who and Comics.
+Currently working on two/three personal projects:
+- One/Two Related to organizing my comic collection
+- One Related to audio processing
+
+I'm also looking into raylib 6.0, and into making an rss-feed reader, they are not priorities, just stuff that I look into from time to time.
+
+I've paused the work I was doing into FTP and dbus, cause all the storage in my ~trashy~ home-server has died, and so I have no reason to continue working on them until I can get my hands on a new HD/SSD.
+
+
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederico-esch-pereira-525424226/)
 [![stackof](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12002056/fred-esch)
